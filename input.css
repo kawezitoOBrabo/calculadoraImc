@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .background-calculadora-imc{
+        @apply bg-slate-100;
+    }
+}
